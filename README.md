@@ -6,7 +6,7 @@
   # 👋 Hello，here is Elaina
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
@@ -33,44 +33,6 @@
 <!-- 添加动态波浪分隔符 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  关于我
-</h2>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="34%" valign="top">
-
-> ### 🧠 大语言模型与 AI 系统
->
-> 🔬 专注于 **大型语言模型(LLMs)训练**
-> 🤖 探索 **多智能体系统架构**  
-> 🌐 开发 **AI 应用的高效推理引擎**  
-> 📊 实践 **强化学习与 RLHF**  
-> ⚡ 热衷于 **AI 模型部署与工程化实践**
-
-</td>
-<td width="34%" valign="top">
-
-> ### 🧪 深度学习与机器学习
->
-> 🔍 钻研 **计算机视觉与图像识别**技术
-> 📝 实现 **自然语言处理与文本分析**  
-> 📈 应用 **时间序列预测与异常检测**  
-> 🧮 优化 **神经网络架构与训练策略**  
-> 🔄 探索 **迁移学习与少样本学习**
-
-</td>
-<td width="35%" valign="top">
-
-> ### 💾 数据库与系统
->
-> 🛢️ 设计 **分布式数据库**架构方案  
-> 🔍 研究 **向量数据库与相似性搜索**
-> 📈 优化 **大规模数据处理**流程  
-> 🔄 开发 **高性能数据分析**平台  
-> 🌐 构建 **知识图谱与语义检索**系统
 
 </td>
 </tr>
@@ -109,9 +71,7 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotuyako&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kotuyako&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kotuyako&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kotuyako&theme=gruvbox" width="100%" />
 
 </div>
   
@@ -135,7 +95,7 @@
 </picture>
 
 <!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotuyako&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kotuyako&theme=gruvbox" width="100%" />
 </div>
 
 <!-- 使用SVG制作的动态语录 -->
